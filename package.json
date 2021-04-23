@@ -10,7 +10,7 @@
 },
   "dependencies": {
     "insomnia-url": "^0.1.2",
-    "momentjs": "^2.0.0"
+    "moment": "^2.0.0"
   },
   "devDependencies": {},
   "scripts": {
