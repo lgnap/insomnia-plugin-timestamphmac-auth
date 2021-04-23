@@ -1,19 +1,23 @@
 {
   "name": "timestamphmac",
   "version": "1.0.0",
-  "description": "An Insomnia plugin for handling authentication when integrating with Time stamps HMAC APIs.",
-  "license": "Apache-2.0",
-  "repository": "https://github.com/lgnap/insomnia-plugin-timestamphmac-auth.git",
-  "bugs": {
-    "url": "https://github.com/lgnap/insomnia-plugin-timestamphmac-auth.git"
-  },
+  "description": "Install through Insomnia plugin interface",
   "main": "index.js",
-  "insomnia": {
-    "name": "timestamphmac-auth",
-    "description": "An Insomnia plugin for handling authentication when integrating with Time stamps HMAC APIs."
-  },
   "dependencies": {
-    "insomnia-url": "^0.1.2",
     "momentjs": "^2.0.0"
-  }
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lgnap/insomnia-plugin-timestamphmac-auth.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lgnap/insomnia-plugin-timestamphmac-auth/issues"
+  },
+  "homepage": "https://github.com/lgnap/insomnia-plugin-timestamphmac-auth#readme"
 }
