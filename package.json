@@ -1,10 +1,10 @@
 {
-  "name": "timestamphmac",
-  "version": "1.0.1",
+  "name": "insomnia-plugin-timestamphmac",
+  "version": "1.0.2",
   "description": "Install through Insomnia plugin interface",
   "main": "index.js",
   "insomnia": {
-    "name": "timestamphmac-auth",
+    "name": "insomnia-plugin-timestamphmac-auth",
     "displayName": "Timestamp hmac auth Plugin",
     "description": "An Insomnia plugin for handling authentication when integrating with Time stamps HMAC APIs."
 },
