@@ -1,5 +1,6 @@
 const {smartEncodeUrl} = require('insomnia-url');
 const crypto = require('crypto');
+const moment = require('moment')
 
 module.exports = function (context) {
   const commaDecodedUrl = smartEncodeUrl(context.request.getUrl(), true);

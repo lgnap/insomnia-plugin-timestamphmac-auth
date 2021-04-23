@@ -1,6 +1,6 @@
 {
   "name": "insomnia-plugin-timestamphmac",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Install through Insomnia plugin interface",
   "main": "index.js",
   "insomnia": {
