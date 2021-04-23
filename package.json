@@ -5,8 +5,9 @@
   "main": "index.js",
   "insomnia": {
     "name": "timestamphmac-auth",
+    "displayName": "Timestamp hmac auth Plugin",
     "description": "An Insomnia plugin for handling authentication when integrating with Time stamps HMAC APIs."
-  },
+},
   "dependencies": {
     "insomnia-url": "^0.1.2",
     "momentjs": "^2.0.0"
